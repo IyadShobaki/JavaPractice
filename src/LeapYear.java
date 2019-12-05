@@ -4,7 +4,7 @@ public class LeapYear {
 
 	public static void main(String[] args) {
 		
-		int year = 1220;
+		int year = 1800;
 		boolean leap = false;
 		
 		int modby4 = year % 4;
